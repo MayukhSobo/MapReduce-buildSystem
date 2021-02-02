@@ -1,7 +1,7 @@
 # MapReduce-buildSystem
 This is a convention hadoop map reduce build system on wordcount problem on a configured hadoop cluster
 
-I used a CloudXLab 5 node real cluster to buils this code. My username was `mayukhpay9761` and my `HADOOP_HOME` is at `/user/mayukhpay9761/`
+I used a CloudXLab 5 node real cluster to build this code. My username was `mayukhpay9761` and my `HADOOP_HOME` is at `/user/mayukhpay9761/`
 
 All the commands are executed while I am inside the actual project directory.
 
